@@ -19,7 +19,7 @@ from aiogram.types import (
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 
-TOKEN = "8994039104:AAEgHnwwv97G0TUzTbAcGYQoGPAQa93wo7A"
+TOKEN = "API_TOKEN"
 
 bot = Bot(token=TOKEN)
 storage = MemoryStorage()
