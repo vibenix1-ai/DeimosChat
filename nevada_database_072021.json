@@ -1,0 +1,25 @@
+{
+    "users": {
+        "6735542457": {
+            "coins": 172,
+            "username": "MadnassTG",
+            "custom_name": "Аудитор",
+            "custom_avatar": "AgACAgIAAxkBAANQap_Rt-KBlRKABcUsoxTxJfcXikYAAjklaxtEIPlINp4DLMs_ej8BAAMCAAN4AAM9BA",
+            "last_daily": "2026-09-08",
+            "last_duel_date": "2026-09-08",
+            "duel_streak": 1,
+            "wins": 0
+        },
+        "8142733328": {
+            "coins": 160,
+            "username": "Kiperfawt",
+            "inventory": [],
+            "custom_name": "2bdamned",
+            "custom_avatar": "AgACAgIAAxkBAANXap_R919CsU_dxDK2tEuMTtYZFLIAAkAgaxsh8wABSSFDQZ167DsXAQADAgADeAADPQQ",
+            "last_daily": "2026-09-08",
+            "last_duel_date": "2026-09-08",
+            "duel_streak": 1,
+            "wins": 1
+        }
+    }
+}
